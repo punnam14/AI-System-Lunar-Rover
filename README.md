@@ -21,5 +21,3 @@ This Repo will cover the following
 6. Deployment and designing GUI 
 7. Use-cases and Research Papers
 8. Conclusion, Results and Further Opportunities
-
-ALL THE BEST 
