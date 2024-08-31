@@ -1,4 +1,7 @@
-# AI-System-Lunar-Rover
+# AI-System-Lunar-Rover and Research report for detection of pulsar stars. 
+
+Find the research report pdf - PCCML Report
+
 Obstacle detection and feature Segmentation on the Lunar Surface
 
 Problem Formulation
